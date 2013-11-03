@@ -1,0 +1,26 @@
+.graph {
+    width: 100%;
+}
+
+.deck-container .slide h1 {
+    font-size: 3em;
+}
+
+.list-good {
+    list-style-type: disc
+}
+
+.list-bad {
+    list-style-type: circle
+}
+
+.footer {
+    z-index: 2;
+    position: absolute;
+    bottom: 10px;
+    left: 5px;
+}
+
+.deck-container .slide .fine-print {
+    font-size: 75%;
+}
